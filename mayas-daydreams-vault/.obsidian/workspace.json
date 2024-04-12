@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Blog/I need to declutter..md",
+                "file": "notes/Books/Processed World Vol 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,20 +45,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "1ae5aee1ad07a650",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ff15f3c3c2fb4003",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "37ab68c3959e5c52",
@@ -124,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Blog/I need to declutter..md",
+                "file": "notes/Books/Processed World Vol 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Blog/I need to declutter..md",
+                "file": "notes/Books/Processed World Vol 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Blog/I need to declutter..md"
+                "file": "notes/Books/Processed World Vol 1.md"
               }
             }
           }
@@ -188,8 +175,9 @@
   },
   "active": "ec53d9574317f0d6",
   "lastOpenFiles": [
-    "templates/new_temp.md",
     "notes/Blog/I need to declutter..md",
+    "notes/Books/Processed World Vol 1.md",
+    "templates/new_temp.md",
     "!!Planner.md",
     "!!Journal",
     "notes/Books/Reading Laziness Does Not Exist after a VERY Unlazy Day.md",
