@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/new_temp.md",
+                "file": "notes/Blog/I need to declutter..md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/new_temp.md",
+                "file": "notes/Blog/I need to declutter..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/new_temp.md",
+                "file": "notes/Blog/I need to declutter..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/new_temp.md"
+                "file": "notes/Blog/I need to declutter..md"
               }
             }
           }
@@ -188,6 +188,8 @@
   },
   "active": "ec53d9574317f0d6",
   "lastOpenFiles": [
+    "templates/new_temp.md",
+    "notes/Blog/I need to declutter..md",
     "!!Planner.md",
     "!!Journal",
     "notes/Books/Reading Laziness Does Not Exist after a VERY Unlazy Day.md",
@@ -195,7 +197,6 @@
     "notes/Books",
     "notes/Blog",
     "notes",
-    "templates/new_temp.md",
     "templates",
     "Welcome.md"
   ]
