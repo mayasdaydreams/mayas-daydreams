@@ -16,11 +16,7 @@ eleventyNavigation:
   						<li>digital gardens</li>
   					</ul>
 
-<!-- HTML Codes by Quackit.com -->
-<style type="text/css">
-div.myspace-scrollbox {height:100;width:200;background-color:FF6600;font-family:Verdana;font-size:8pt;color:000000;text-align:left;border-width:1;border-style:double;border-color:FFFF00;overflow:scroll}
-</style>
-<div class="myspace-scrollbox">
+
   <h4>Website To-Do List</h4>
   <p> ❑ Figure out how to create style sheet </p>
   <p> ❑ Figure out how to edit the home page (lol) </p>
@@ -31,4 +27,3 @@ div.myspace-scrollbox {height:100;width:200;background-color:FF6600;font-family:
   <p> ❑ Start planting digital garden seeds</p>
   <p> ❑ Link to neocities greenhouse </p>
   <p> ❑ Join a webring?</p>
-</div>
