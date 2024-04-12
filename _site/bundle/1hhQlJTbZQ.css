@@ -1,14 +1,3 @@
-<!doctype html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Tagged “decluttering”</title>
-		<meta name="description" content="this is where i hang out on the internet">
-		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Maya&#39;s Daydreams">
-		<link rel="alternate" href="/feed/feed.json" type="application/json" title="Maya&#39;s Daydreams">
-		
-		<style>.postlist { counter-reset: start-from 2 }
 * { box-sizing: border-box; }
 /* Defaults */
 :root {
@@ -279,50 +268,4 @@ a[href].header-anchor:focus,
 
 h2 + .header-anchor {
 	font-size: 1.5em;
-}</style>
-		<link rel="stylesheet" href="/bundle/S4KTF7E-g3.css">
-	</head>
-	<body>
-		<a href="#skip" class="visually-hidden">Skip to main content</a>
-
-		<header>
-			<a href="/" class="home-link">Maya&#39;s Daydreams</a>
-			<nav>
-				<h2 class="visually-hidden">Top level navigation menu</h2>
-				<ul class="nav">
-					<li class="nav-item"><a href="/">Home</a></li>
-					<li class="nav-item"><a href="/blog/">Blog</a></li>
-					<li class="nav-item"><a href="/about/">About Me</a></li>
-				</ul>
-			</nav>
-		</header>
-
-		<main id="skip">
-
-			
-<h1>Tagged “decluttering”</h1>
-
-
-
-<ol reversed class="postlist">
-
-	<li class="postlist-item">
-		<a href="/blog/I need to declutter./" class="postlist-link">I need to declutter.</a>
-		<time class="postlist-date" datetime="2024-04-12">April 2024</time>
-	</li>
-
-</ol>
-
-
-<p>See <a href="/tags/">all tags</a>.</p>
-
-
-			<p>This is some test words</p>
-
-		</main>
-
-		<footer></footer>
-
-		<!-- This page `/tags/decluttering/` was built on 2024-04-12T15:58:36.003Z -->
-	</body>
-</html>
+}
