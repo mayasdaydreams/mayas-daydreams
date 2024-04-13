@@ -5,8 +5,6 @@ date: 2024-04-07
 tags:
   - life update
 ---
-April 2024 So Far
-April 7th, 2024
 
 One week into April and I feel so much better than I did in March. Is March hard for other people, or am I just jinxing myself every year into having a bad month. Nevertheless, here's a little recap of my first week of April
 
