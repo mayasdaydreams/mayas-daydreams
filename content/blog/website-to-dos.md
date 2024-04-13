@@ -8,8 +8,9 @@ tags:
 
 
   <h4>Website To-Do List</h4>
-  <p> ❑ Figure out how to create style sheet </p>
-  <p> ❑ Figure out how to edit the home page (lol) </p>
+  <p> ❑ Figure out how to edit stylesheet </p>
+  <p> ❑ Grid on homepage?</p>
+  <p> <s> ❑ Figure out how to edit the home page (lol) </s> <em> completed 4/13/24 </em> </p>
   <p> ❑ Figure out how to add pages </p>
   <p> ❑ Add a now page </p>
   <p> ❑ Turn this list into a page / add changelog </p>
