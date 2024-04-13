@@ -1,9 +1,6 @@
 ---
 title: 'Maya's Daydreams'
 layout: 'layouts/home.njk'
-pageType: 'home'
-postListHeadline: 'Latest from the blog'
-
 eleventyNavigation:
   key: Home
   order: 1
