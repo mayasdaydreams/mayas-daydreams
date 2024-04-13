@@ -1,14 +1,36 @@
 ---
-title: 'Hello, I’m Andy'
-metaTitle: 'Andy Bell - Designer, front-end developer and founder of Set Studio'
-metaDesc: 'I’m a designer, front-end developer and the founder of Set Studio.'
+title: 'Maya's Daydreams'
 layout: 'layouts/home.njk'
 pageType: 'home'
 postListHeadline: 'Latest from the blog'
+
+eleventyNavigation:
+  key: Home
+  order: 1
+
+numberOfLatestPostsToShow: 3
 ---
 
-I’m a designer, front-end developer and the founder of [Set Studio](https://set.studio/).
+Hello, welcome!
 
-I focus on making stunning [websites that work for everyone](https://buildexcellentwebsit.es/), regardless of their device or connection speed.
+{% set postsCount = collections.posts | length %}
+{% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
+<h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
 
-This is my little home on the internet where I [write](/blog/), and [collect music](/music-collection/).
+{% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
+{% set postslistCounter = postsCount %}
+{% include "postslist.njk" %}
+
+{% set morePosts = postsCount - numberOfLatestPostsToShow %}
+{% if morePosts > 0 %}
+<p>{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="/blog/">the archive</a>.</p>
+{% endif %}
+
+{# List every content page in the project #}
+{#
+<ul>
+	{%- for entry in collections.all %}
+	<li><a href="{{ entry.url }}"><code>{{ entry.url }}</code></a></li>
+	{%- endfor %}
+</ul>
+#}
