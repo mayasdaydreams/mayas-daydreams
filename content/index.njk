@@ -7,22 +7,6 @@ eleventyNavigation:
 numberOfLatestPostsToShow: 3
 ---
 
-<div class="parent">
-	<div class="div1"> <img src="/img/avatar1.PNG"> </div>
-	<div class="div2"> </div>
-	<div class="div3"> <h1>Welcome</h1>
-
-		<p> This is my website. A lot of my updates are likely going 
-		to be related to me learning how to build this website. Eventually this page
-		will grow as i learn and many more interests will be included!</p> </div>
-	<div class="div4"> </div>
-	<div class="div5"> </div>
-	</div>
-
-
-
-
-
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
 <h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
