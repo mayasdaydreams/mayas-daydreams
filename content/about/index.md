@@ -16,3 +16,6 @@ eleventyNavigation:
   						<li>digital gardens</li>
   					</ul>
 
+<p>Contact: <a href="mayasdaydreams@proton.me" rel="me">mayasdaydreams@proton.me</a>
+</p>
+
