@@ -1,0 +1,78 @@
+---
+layout: layouts/home.njk
+eleventyNavigation:
+  key: Home
+  order: 1
+
+numberOfLatestPostsToShow: 3
+---
+
+<!-- Remember to also copy the code in the CSS area! -->
+<div class="snowflakes">
+	<!-- add your 'snowflake' images below - you can add more or less if needed -->
+	<div class="snowflake"><img src="/img/heart.png" style="width:20px;" /></div>
+	<div class="snowflake"><img src="/img/heart.png" style="width:20px;" /></div>
+	  <div class="snowflake"><img src="/img/heart.png" style="width:20px;" /></div>
+	  <div class="snowflake"><img src="/img/heart.png" style="width:20px;" /></div>
+	 <div class="snowflake"><img src="/img/heart.png" style="width:20px;" /></div>
+	  <div class="snowflake"><img src="/img/heart.png" style="width:20px;" /></div>
+	  <div class="snowflake"><img src="/img/heart.png" style="width:20px;" /></div>
+	  <div class="snowflake"><img src="/img/heart.png" style="width:20px;" /></div>
+	<div class="snowflake"><img src="/img/heart.png" style="width:20px;" /></div>
+	  <div class="snowflake"><img src="/img/heart.png" style="width:20px;" /></div>
+	  <div class="snowflake"><img src="/img/heart.png" style="width:20px;" /></div>
+  </div>
+  </div>
+
+<div class="container">
+	
+	<div class="sidebar">
+		<img width="200" height="200" src="img/avatar3.png">
+		<br>
+		<p>Contact: <a href="mailto:mayasdaydreams@proton.me" rel="me">mayasdaydreams@proton.me</a>
+	</div>
+
+	<div class="Header">
+		<p>Howdy!</p>
+	</div>
+
+	<div class="body-area">
+		
+
+
+		{% set postsCount = collections.posts | length %}
+		{% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
+		<h4>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h4>
+		
+		{% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
+		{% set postslistCounter = postsCount %}
+		{% include "postslist.njk" %}
+		
+		{% set morePosts = postsCount - numberOfLatestPostsToShow %}
+		{% if morePosts > 0 %}
+		<p>{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="/blog/">the archive</a>.</p>
+		{% endif %}
+		
+		{# List every content page in the project #}
+		{#
+		<ul>
+			{%- for entry in collections.all %}
+			<li><a href="{{ entry.url }}"><code>{{ entry.url }}</code></a></li>
+			{%- endfor %}
+		</ul>
+		#}
+		
+
+
+	</div>
+
+	<div class="footer">
+		Love, Maya 😘 2024
+		<p><script src="https://tinylytics.app/embed/B3B9KPzVuyDBL9JvzPCY.jskudos=❤️"defer></script></p>
+		<button class="tinylytics_kudos"></button>
+
+	</div>
+
+</div>
+
+
