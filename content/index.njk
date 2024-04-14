@@ -10,16 +10,20 @@ numberOfLatestPostsToShow: 3
 <div class="container">
 	
 	<div class="sidebar">
-		<img width="200" height="200" src="img/avatar1.PNG">
+		<img width="200" height="200" src="img/avatar2.png">
+	</div>
+
+	<div class="Header">
+		<p>Howdy!</p>
 	</div>
 
 	<div class="body-area">
-		<p>Howdy!</p>
+		
 
 
 		{% set postsCount = collections.posts | length %}
 		{% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
-		<h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
+		<h4>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h4>
 		
 		{% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
 		{% set postslistCounter = postsCount %}
@@ -41,6 +45,10 @@ numberOfLatestPostsToShow: 3
 		
 
 
+	</div>
+
+	<div class="footer">
+		Love, Maya 😘 2024
 	</div>
 
 </div>
