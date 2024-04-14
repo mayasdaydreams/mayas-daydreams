@@ -11,8 +11,8 @@ tags:
   <p> ❑ Figure out how to edit stylesheet </p>
   <p> ❑ Grid on homepage?</p>
   <p> <s> ❑ Figure out how to edit the home page (lol) </s> <em> completed 4/13/24 </em> </p>
-  <p> ❑ Figure out how to add pages </p>
-  <p> ❑ Add a now page </p>
+  <p> <s> ❑ Figure out how to add pages </s><em> completed 4/13/24 </em>  </p>
+  <p> <s> ❑ Add a now page </s> <em> completed 4/13/24 </em> </p>
   <p> ❑ Turn this list into a page / add changelog </p>
   <p> ❑ Figure out how to set up webmentions </p>
   <p> ❑ Start planting digital garden seeds</p>
