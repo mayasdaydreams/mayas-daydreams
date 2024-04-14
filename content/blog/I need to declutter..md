@@ -10,7 +10,7 @@ Last week we found out that we are moving this fall! I am super excited and nerv
 
 I definitely went on a retail therapy binge during the darkest times of the pandemic, and it took me a year or so after the worst of it had passed to realize that I didn't shake the habit. I am now faced with the daunting task of either packing and moving a bunch of stuff that I'm not sure if I even want/need anymore, or just getting rid of it.
 
-I have been curious about the idea of minimalism for many years, but for whatever reason I haven't been able to commit to that lifestyle. 
+I have been curious about the idea of <a href="/digital-garden/minimalism/">minimalism</a> for many years, but for whatever reason I haven't been able to commit to that lifestyle. 
 
 I was talking about the anxiety that the mess in my office has been giving me during therapy, and we decided on an action plan. I committed to just trying to spend 15 - 20 minutes a day decluttering. I am hoping that we'll be more or less ready to move by August. I was curious how much total time would I spend decluttering between now and August 1st, and it came out to 28 hours.
 
