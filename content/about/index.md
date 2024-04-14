@@ -11,7 +11,7 @@ eleventyNavigation:
   				<p>My guestbook here: <a href="http://users.smartgb.com/g/g.php?a=s&i=g19-01267-f7">Here</a></p>
   				<p>Some of my favorite things: </p>
   					<ul>
-  						<li>my <em>cat</em></li>
+  						<li>my <em><a href="/apollo">cat</a></em></li>
   						<li><strong>blogging</strong></li>
   						<li>digital gardens</li>
   					</ul>
