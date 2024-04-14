@@ -1,7 +1,28 @@
+.container {  display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-template-rows: 0.3fr 2.4fr 0.3fr;
+	gap: 0px 0px;
+	grid-auto-flow: row;
+	grid-template-areas:
+	  "sidebar Header Header"
+	  "sidebar body-area body-area"
+	  "footer footer footer";
+  }
+  
+  .sidebar { grid-area: sidebar; }
+  
+  .footer { grid-area: footer; }
+  
+  .Header { grid-area: Header; }
+  
+  .body-area { grid-area: body-area; }
+  
+
 /* Defaults */
 :root {
 	--font-family: Noteworthy, Arial, Helvetica
 	--font-family-monospace: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New, Courier, monospace;
+	font-size: larger;
 }
 
 /* Theme colors */
