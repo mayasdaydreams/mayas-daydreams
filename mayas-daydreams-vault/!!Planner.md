@@ -1,0 +1,17 @@
+- LONGTERM GOALS:  
+- Where do I see myself in 5 years?  
+- [redacted, I don't want to spoil the surprise ;)]  
+- 2022:  
+- YearlyGoals  
+- xxx  
+- yyy  
+- January  
+- #MonthlyGoals  
+- xxx  
+- #WeeklyGoals Week 1 (3-7.01)  
+- [x] yyy  
+- #WeeklyGoals Week 2 (10-14.01)  
+- [ ] zzz  
+Lack of time to do this  
+- 2021:  
+- 2020:
