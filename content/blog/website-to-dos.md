@@ -8,8 +8,8 @@ tags:
 
 
   <h4>Website To-Do List</h4>
-  <p> ❑ Figure out how to edit stylesheet </p>
-  <p> ❑ Grid on homepage?</p>
+  <p> <s> ❑ Figure out how to edit stylesheet </s> <em> completed 4/13/24 </em> </p>
+  <p> <s> ❑ Grid on homepage? </s> <em> completed 4/13/24 </em> </p>
   <p> <s> ❑ Figure out how to edit the home page (lol) </s> <em> completed 4/13/24 </em> </p>
   <p> <s> ❑ Figure out how to add pages </s><em> completed 4/13/24 </em>  </p>
   <p> <s> ❑ Add a now page </s> <em> completed 4/13/24 </em> </p>
