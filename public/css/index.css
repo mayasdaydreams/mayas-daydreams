@@ -61,6 +61,7 @@ img {
 	--color-gray-90: #333;
 
 	--background-image: url("/public/img/goldsilkbg.gif");
+	--background-repeat: repeat-y;
 	--background-color: #FFC300 ;
 
 	--text-color: var(--color-gray-90);
@@ -148,7 +149,7 @@ main :first-child {
 }
 
 header {
-	border-bottom: 1px solid var(--color-gray-20);
+	border-bottom: 1px solid var(--color-gray-20); background-color: #1493fb;
 }
 header:after {
 	content: "";
