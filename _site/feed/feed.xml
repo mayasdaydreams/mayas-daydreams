@@ -4,12 +4,20 @@
 	<subtitle>this is where i hang out on the internet</subtitle>
 	<link href="https://mayasdaydreams.com/feed/feed.xml" rel="self"/>
 	<link href="https://mayasdaydreams.com/"/>
-	<updated>2024-04-12T00:00:00Z</updated>
+	<updated>2024-04-13T00:00:00Z</updated>
 	<id>https://mayasdaydreams.com/</id>
 	<author>
 		<name>Maya</name>
 		<email>youremailaddress@example.com</email>
 	</author>
+	
+	<entry>
+		<title>Recent Faves</title>
+		<link href="https://mayasdaydreams.com/blog/recent-faves/"/>
+		<updated>2024-04-13T00:00:00Z</updated>
+		<id>https://mayasdaydreams.com/blog/recent-faves/</id>
+		<content type="html">&lt;iframe width=&quot;500&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/4TffiAO-E_4?si=mTffkunRwOzb9gS0&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content>
+	</entry>
 	
 	<entry>
 		<title>Website To Dos</title>
