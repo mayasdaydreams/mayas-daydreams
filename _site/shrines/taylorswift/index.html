@@ -479,35 +479,55 @@ h2 + .header-anchor {
 
 		<main id="skip">
 			
-<h1>Tags</h1>
+<style>
+.layout {
 
-<ul>
+  
+    display: grid;
+    grid:
+      "header header header" auto
+      "leftSide body rightSide" 1fr
+      "footer footer footer" auto
+      / auto 1fr auto;
+    gap: 8px;
+  }
+  
+  .header { grid-area: header; }
+  .leftSide { grid-area: leftSide; }
+  .body { grid-area: body; }
+  .rightSide { grid-area: rightSide; }
+  .footer { grid-area: footer; }
 
-	
-	<li><a href="/tags/life-update/" class="post-tag">life update</a></li>
+</style>
 
-	
-	<li><a href="/tags/minimalism/" class="post-tag">minimalism</a></li>
+  <section class="layout">
+    <div class="header">Taylor Swift</div>
 
-	
-	<li><a href="/tags/decluttering/" class="post-tag">decluttering</a></li>
-
-	
-	<li><a href="/tags/webmastery/" class="post-tag">webmastery</a></li>
-
-	
-	<li><a href="/tags/lists/" class="post-tag">lists</a></li>
-
-	
-	<li><a href="/tags/seed/" class="post-tag">seed</a></li>
-
-</ul>
-
+    <div class="leftSide">
+        <h1>Eras</h1>
+        <p>Debut</p>
+        <p>Fearless</p>
+        <p>Speak Now</p>
+        <p>Red</p>
+        <p>1989</p>
+        <p>Reputation</p>
+        <p>Lover</p>
+        <p>Folklore</p>
+        <p>Evermore</p>
+        <p>Midnights</p>
+        <p><a href="/shrines/taylorswift/ttpd/">The Tortured Poets Department</p></a>
+    </div>
+    <div class="body">
+        <img src="/img/ttpd.jpeg" alt="ttpd">
+    </div>
+    <div class="rightSide">Currently Listening To...</div>
+    <div class="footer">5</div>
+  </section>
 
 		</main>
 
 		<footer></footer>
 
-		<!-- This page `/tags/` was built on 2024-04-19T03:41:34.589Z -->
+		<!-- This page `/shrines/taylorswift/` was built on 2024-04-19T03:41:34.590Z -->
 	</body>
 </html>

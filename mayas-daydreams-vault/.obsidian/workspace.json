@@ -20,24 +20,24 @@
             }
           },
           {
-            "id": "e0dec7cf9d15b432",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Books/Reading Laziness Does Not Exist after a VERY Unlazy Day.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ec53d9574317f0d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "notes/Books/Processed World Vol 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4170e9980e442dfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Slow Living.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "37ab68c3959e5c52",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Books/Processed World Vol 1.md",
+                "file": "notes/Books/Reading Laziness Does Not Exist after a VERY Unlazy Day.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Books/Processed World Vol 1.md",
+                "file": "notes/Books/Reading Laziness Does Not Exist after a VERY Unlazy Day.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Books/Processed World Vol 1.md"
+                "file": "notes/Books/Reading Laziness Does Not Exist after a VERY Unlazy Day.md"
               }
             }
           }
@@ -173,14 +172,15 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "ec53d9574317f0d6",
+  "active": "812dd93720795eb4",
   "lastOpenFiles": [
-    "notes/Blog/I need to declutter..md",
+    "notes/Slow Living.md",
     "notes/Books/Processed World Vol 1.md",
+    "notes/Books/Reading Laziness Does Not Exist after a VERY Unlazy Day.md",
+    "notes/Blog/I need to declutter..md",
     "templates/new_temp.md",
     "!!Planner.md",
     "!!Journal",
-    "notes/Books/Reading Laziness Does Not Exist after a VERY Unlazy Day.md",
     "!!Inbox",
     "notes/Books",
     "notes/Blog",

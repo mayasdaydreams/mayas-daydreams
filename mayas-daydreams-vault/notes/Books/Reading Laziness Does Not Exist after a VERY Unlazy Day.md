@@ -20,5 +20,3 @@ i also sometimes need to remember that i can take sick days if i need to. it's f
 
 "The evils of procrastination could easily be avoided if only the procrastinator would just work a little harder in advance-- or at least that's what people tend to think. In reality procrastination is a much more complex beast, one that's often caused by caring a whole lot and wanting to do well."
 
----
-**Note** that anything tagged with #obsidian means that it was initially drafted in my vault. i may or may not come back to it and make changes after I export, but we'll see as I figure out how I want my little digital garden to grow...
