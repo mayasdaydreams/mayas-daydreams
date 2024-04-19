@@ -26,10 +26,7 @@
   }
 
 /* clip paths */
-img {
-	width: 200px;
-	margin: 30px;
-  }
+
   
   .clip-circle {
 	clip-path: circle(80px at center);
