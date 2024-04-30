@@ -6,6 +6,7 @@ layout: layouts/base.njk
 {%- css %}{% include "public/css/prism-diff.css" %}{%- endcss %}
 <h1>{{ title }}</h1>
 
+
 <ul class="post-metadata">
 	<li><time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></li>
 	{%- for tag in tags | filterTagList %}
@@ -30,7 +31,6 @@ layout: layouts/base.njk
 
 <div id="c_widget"></div>
 <script src="/content/comment-widget.js"></script>
-
 
 <div id="disqus_thread"></div>
 <script>
