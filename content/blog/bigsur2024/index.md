@@ -20,10 +20,10 @@ Now that I know where I'm at with my running better now, I think that I could ma
 I'm a little bit weirdly obsessed with this race, but it turns out that I'm not alone in that. I feel like I got a taste of the experience that I was craving. The only sounds at one point were my footsteps and the waves hitting the rocks down below. It was beautiful and I felt strong. I had a plan for when I would eat my little snack, I knew exactly when I wanted to take a walking break. Much to my amazing luck that was also the point where the big 12k photo op was, so my pictures make it look like I just went on a nice seaside stroll, looking for mermaids.
 
 ---
-All of May 2024, I will be participating in weblog posting month created by Annie Greens (look up actual username)
+All of May 2024, I will be participating in weblog posting month created by <a href="https://weblog.anniegreens.lol/weblog-posting-month-2024">Annie Greens</a>
 
-For a list of other participants, go here
+For a list of other participants, <a href="https://weblog.anniegreens.lol/weblog-posting-month-2024/participators">go here</a>
 
-For a list of my topic ideas and some rules I wrote for myself, go here
+For a list of my topic ideas and some rules I wrote for myself, <a href="/weblogpomo2024/">go here</a>
 
 Post 1/31

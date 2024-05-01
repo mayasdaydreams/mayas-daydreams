@@ -1,7 +1,7 @@
 ---
 title: It's Weblog Posting Month! + 31 Blog Post Ideas
 description: Gearing up for a daily blogging challenge
-date: 2024-04-29
+date: 2024-04-30
 tags:
   - challeneges
 ---

@@ -4,12 +4,26 @@
 	<subtitle>this is where i hang out on the internet</subtitle>
 	<link href="https://mayasdaydreams.com/feed/feed.xml" rel="self"/>
 	<link href="https://mayasdaydreams.com/"/>
-	<updated>2024-05-01T00:00:00Z</updated>
+	<updated>2024-05-02T00:00:00Z</updated>
 	<id>https://mayasdaydreams.com/</id>
 	<author>
 		<name>Maya</name>
 		<email>youremailaddress@example.com</email>
 	</author>
+	
+	<entry>
+		<title>A Peek Into My Morning Pages</title>
+		<link href="https://mayasdaydreams.com/blog/pomoday2/"/>
+		<updated>2024-05-02T00:00:00Z</updated>
+		<id>https://mayasdaydreams.com/blog/pomoday2/</id>
+		<content type="html">&lt;p&gt;This month I am cheating a little bit on my morning pages. I try to write 500 words every morning in StimuWrite every morning, just to get the juices flowing. I am not consistent at it at all. I blame the fact that I have been really struggling to wake up early every day.&lt;/p&gt;
+&lt;p&gt;I am using my little 500 words goal that I have carved out to write blog posts this month... if any one was wondering why I included that in my personal list of parameters for this month. That is my optional rule that is meant to stretch me a little bit. Plus just get me in the habit of sitting down to write /something/.&lt;/p&gt;
+&lt;p&gt;Similarly to my dream of running the Big Sur Marathon, I also really, really want to write a fantasy novel. I actually have most of the plot written out, it&#39;s been sitting in my documents folder for about 9 months now without any updates from me. I always have an excuse about why I can&#39;t work on it, I need to study for my FE exam, I&#39;m tired, I decided to run instead (lol), I could list a million and one reasons. I honestly kind of hate advice that you need to do things every day to be serious about them. The irony of choosing to do this daily challenege is not lost on me.&lt;/p&gt;
+&lt;p&gt;I actually did something  similar with the last iteration of this blog when I was still using wordpress / bluehost (derrogatory) for hosting. I did manage to make a post every day, except for maybe one or two days. So I know that this is isn&#39;t that much of a stretch for me. I have always treated my blog as an outlet for me to store half-baked ideas, and think out loud to people. But consistency in other things? Not so much luck.&lt;/p&gt;
+&lt;p&gt;The time that I stopped working on my writing project and when I stopped doing morning pages coincided. In fact, the novel idea was born out of an entry just like this one. Albeit, I was doing handwritten morning pages then... and also not posting them publically. Julia Cameron would probably be very disappointed in me if she happened to find my blog (I love your work if you&#39;re here!). I am trying to work with myself and where I&#39;m at in life.&lt;/p&gt;
+&lt;p&gt;Right now I am prioritising sleep and healing from burnout. I am trying not to add too much to my plate while also trying to stay somewhat consistent in my hobbies. I am also mentally preparing for a big move and downsizing our apartment. Along with running in a race last weekend, we also drove to a completely different part of California to look at houses. We ended up finding a place, it&#39;s very cute. We will need to downsize by over 200 sq ft, so decluttering is also taking up quite a bit of time. I am also enjoying running and crocheting, and blogging. Where does novel writing fit in? At the moment, I don&#39;t know, but maybe we can figure it out together!&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>A Love Letter to the Big Sur Marathon</title>
@@ -23,9 +37,9 @@
 &lt;p&gt;Now that I know where I&#39;m at with my running better now, I think that I could maybe make it to 6 hours on a perfectly flat course. Realizing I was going to fail this race not once, but twice really felt like I died trying. To my credit, I recovered and kept running, I set more realistic goals, and am keeping the marathon on my bucket list. I actually ran my first half marathon in March! So I would say that I&#39;m well on my way to making it to the start line again. I had the time of my life this weekend running along the highway for a bit and then through Point Lobos Reserve was a dream. Gorgeous. I went into Sunday just wanting to have a good time.&lt;/p&gt;
 &lt;p&gt;I&#39;m a little bit weirdly obsessed with this race, but it turns out that I&#39;m not alone in that. I feel like I got a taste of the experience that I was craving. The only sounds at one point were my footsteps and the waves hitting the rocks down below. It was beautiful and I felt strong. I had a plan for when I would eat my little snack, I knew exactly when I wanted to take a walking break. Much to my amazing luck that was also the point where the big 12k photo op was, so my pictures make it look like I just went on a nice seaside stroll, looking for mermaids.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;All of May 2024, I will be participating in weblog posting month created by Annie Greens (look up actual username)&lt;/p&gt;
-&lt;p&gt;For a list of other participants, go here&lt;/p&gt;
-&lt;p&gt;For a list of my topic ideas and some rules I wrote for myself, go here&lt;/p&gt;
+&lt;p&gt;All of May 2024, I will be participating in weblog posting month created by &lt;a href=&quot;https://weblog.anniegreens.lol/weblog-posting-month-2024&quot;&gt;Annie Greens&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For a list of other participants, &lt;a href=&quot;https://weblog.anniegreens.lol/weblog-posting-month-2024/participators&quot;&gt;go here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For a list of my topic ideas and some rules I wrote for myself, &lt;a href=&quot;https://mayasdaydreams.com/weblogpomo2024/&quot;&gt;go here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Post 1/31&lt;/p&gt;
 </content>
 	</entry>
@@ -33,7 +47,7 @@
 	<entry>
 		<title>It&#39;s Weblog Posting Month! + 31 Blog Post Ideas</title>
 		<link href="https://mayasdaydreams.com/blog/weblogpomo2024/"/>
-		<updated>2024-04-29T00:00:00Z</updated>
+		<updated>2024-04-30T00:00:00Z</updated>
 		<id>https://mayasdaydreams.com/blog/weblogpomo2024/</id>
 		<content type="html">&lt;p&gt;I recently set up my &lt;a href=&quot;https://mastodon.social/@mayasdaydreams&quot;&gt;Mastodon&lt;/a&gt; profile. I am dubious about it, but I did come across this hashtag: &lt;a href=&quot;https://mastodon.social/tags/weblogpomo2024&quot;&gt;#weblogpomo2024&lt;/a&gt;. Despite my better judgement, I want to go for it.&lt;/p&gt;
 &lt;h2 id=&quot;what-is-weblogpomo&quot; tabindex=&quot;-1&quot;&gt;What is WeblogPoMo? &lt;a class=&quot;header-anchor&quot; href=&quot;https://mayasdaydreams.com/blog/weblogpomo2024/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
