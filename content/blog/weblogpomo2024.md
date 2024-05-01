@@ -67,4 +67,4 @@ I have been blogging on this page for about a month now, and I feel like the mai
 ## PoMo Post Mortem
 
 2024 WeblogPoMo Final Post List
-1. [[watch this space]]
+1. <a href="bigsur2024/">A Love Letter to the Big Sur Marathon</a>
