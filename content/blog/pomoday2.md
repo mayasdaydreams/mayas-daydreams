@@ -19,3 +19,12 @@ I actually did something  similar with the last iteration of this blog when I wa
 The time that I stopped working on my writing project and when I stopped doing morning pages coincided. In fact, the novel idea was born out of an entry just like this one. Albeit, I was doing handwritten morning pages then... and also not posting them publically. Julia Cameron would probably be very disappointed in me if she happened to find my blog (I love your work if you're here!). I am trying to work with myself and where I'm at in life.
 
 Right now I am prioritising sleep and healing from burnout. I am trying not to add too much to my plate while also trying to stay somewhat consistent in my hobbies. I am also mentally preparing for a big move and downsizing our apartment. Along with running in a race last weekend, we also drove to a completely different part of California to look at houses. We ended up finding a place, it's very cute. We will need to downsize by over 200 sq ft, so decluttering is also taking up quite a bit of time. I am also enjoying running and crocheting, and blogging. Where does novel writing fit in? At the moment, I don't know, but maybe we can figure it out together!
+
+---
+All of May 2024, I will be participating in weblog posting month created by <a href="https://weblog.anniegreens.lol/weblog-posting-month-2024">Apple Annie</a>
+
+For a list of other participants, <a href="https://weblog.anniegreens.lol/weblog-posting-month-2024/participators">go here</a>
+
+For a list of my topic ideas and some rules I wrote for myself, <a href="/weblogpomo2024/">go here</a>
+
+Post 2/31
