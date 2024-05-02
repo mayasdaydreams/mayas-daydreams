@@ -5,7 +5,6 @@ date: 2024-05-02
 tags:
   - life
   - webblogpomo2024
-draft: true
 ---
 
 This month I am cheating a little bit on my morning pages. I try to write 500 words every morning in StimuWrite every morning, just to get the juices flowing. I am not consistent at it at all. I blame the fact that I have been really struggling to wake up early every day. 
