@@ -5,7 +5,6 @@ date: 2024-05-03
 tags:
   - money
   - webblogpomo2024
-draft: true
 ---
 
 Today's fixation is the You Need a Budget (YNAB) system. I have been working very hard to simplify my life lately. Saying that feels like an oxymoron, but it's true! It really is work when you're actually "working on yourself." One thing that I have been starting to realize is that when I avoid things because they stress me out, they still are stressing me out. Out of sight, out of mind doesn't really work for me. Does it work for anyone? I have been trying several platforms over the last few months to track my spending and set a budget. 
