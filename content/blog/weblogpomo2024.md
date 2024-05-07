@@ -69,6 +69,7 @@ I have been blogging on this page for about a month now, and I feel like the mai
 2024 WeblogPoMo Final Post List
 1. <a href="/blog/bigsur2024/">A Love Letter to the Big Sur Marathon</a>
 2. <a href="/blog/pomoday2/">A Peek Into My Morning Pages</a>
-2. <a href="/blog/pomoday3/">A Dumbass Tries to Learn to Budget</a>
-2. <a href="/blog/pomoday4/">Four Months Into My No-Buy Year</a>
-2. <a href="/blog/pomoday5/">My website is one month old!</a>
+3. <a href="/blog/pomoday3/">A Dumbass Tries to Learn to Budget</a>
+4. <a href="/blog/pomoday4/">Four Months Into My No-Buy Year</a>
+5. <a href="/blog/pomoday5/">My website is one month old!</a>
+6. <a href="/blog/pomoday6/">My website is one month old!</a>
