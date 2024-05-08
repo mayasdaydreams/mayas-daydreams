@@ -73,3 +73,4 @@ I have been blogging on this page for about a month now, and I feel like the mai
 4. <a href="/blog/pomoday4/">Four Months Into My No-Buy Year</a>
 5. <a href="/blog/pomoday5/">My website is one month old!</a>
 6. <a href="/blog/pomoday6/">My website is one month old!</a>
+7. <a href="/blog/pomoday7">i managed to add an image to my blog posts, but...</a>
