@@ -14,12 +14,179 @@
 
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Maya&#39;s Daydreams</title>
-		<meta name="description" content="this is where i hang out on the internet">
+		<title>i managed to add an image to my blog posts</title>
+		<meta name="description" content="yummy chicken">
 		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Maya&#39;s Daydreams">
 		<link rel="alternate" href="/feed/feed.json" type="application/json" title="Maya&#39;s Daydreams">
 		
-		<style>.postlist { counter-reset: start-from 17 }
+		<style>/**
+ * okaidia theme for JavaScript, CSS and HTML
+ * Loosely based on Monokai textmate theme by http://www.monokai.nl/
+ * @author ocodia
+ */
+
+code[class*="language-"],
+pre[class*="language-"] {
+	color: #f8f8f2;
+	background: none;
+	text-shadow: 0 1px rgba(0, 0, 0, 0.3);
+	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+	font-size: 1em;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+	word-wrap: normal;
+	line-height: 1.5;
+
+	-moz-tab-size: 4;
+	-o-tab-size: 4;
+	tab-size: 4;
+
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+}
+
+/* Code blocks */
+pre[class*="language-"] {
+	padding: 1em;
+	margin: .5em 0;
+	overflow: auto;
+	border-radius: 0.3em;
+}
+
+:not(pre) > code[class*="language-"],
+pre[class*="language-"] {
+	background: #272822;
+}
+
+/* Inline code */
+:not(pre) > code[class*="language-"] {
+	padding: .1em;
+	border-radius: .3em;
+	white-space: normal;
+}
+
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+	color: #8292a2;
+}
+
+.token.punctuation {
+	color: #f8f8f2;
+}
+
+.token.namespace {
+	opacity: .7;
+}
+
+.token.property,
+.token.tag,
+.token.constant,
+.token.symbol,
+.token.deleted {
+	color: #f92672;
+}
+
+.token.boolean,
+.token.number {
+	color: #ae81ff;
+}
+
+.token.selector,
+.token.attr-name,
+.token.string,
+.token.char,
+.token.builtin,
+.token.inserted {
+	color: #a6e22e;
+}
+
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string,
+.token.variable {
+	color: #f8f8f2;
+}
+
+.token.atrule,
+.token.attr-value,
+.token.function,
+.token.class-name {
+	color: #e6db74;
+}
+
+.token.keyword {
+	color: #66d9ef;
+}
+
+.token.regex,
+.token.important {
+	color: #fd971f;
+}
+
+.token.important,
+.token.bold {
+	font-weight: bold;
+}
+.token.italic {
+	font-style: italic;
+}
+
+.token.entity {
+	cursor: help;
+}
+/*
+ * New diff- syntax
+ */
+
+pre[class*="language-diff-"] {
+	--eleventy-code-padding: 1.25em;
+	padding-left: var(--eleventy-code-padding);
+	padding-right: var(--eleventy-code-padding);
+}
+.token.deleted {
+	background-color: hsl(0, 51%, 37%);
+	color: inherit;
+}
+.token.inserted {
+	background-color: hsl(126, 31%, 39%);
+	color: inherit;
+}
+
+/* Make the + and - characters unselectable for copy/paste */
+.token.prefix.unchanged,
+.token.prefix.inserted,
+.token.prefix.deleted {
+	-webkit-user-select: none;
+	user-select: none;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+.token.prefix.inserted,
+.token.prefix.deleted {
+	width: var(--eleventy-code-padding);
+	background-color: rgba(0,0,0,.2);
+}
+
+/* Optional: full-width background color */
+.token.inserted:not(.prefix),
+.token.deleted:not(.prefix) {
+	display: block;
+	margin-left: calc(-1 * var(--eleventy-code-padding));
+	margin-right: calc(-1 * var(--eleventy-code-padding));
+	text-decoration: none; /* override del, ins, mark defaults */
+	color: inherit; /* override del, ins, mark defaults */
+}
 * { box-sizing: border-box; }
 .container {  display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
@@ -468,7 +635,7 @@ h2 + .header-anchor {
 				<h2 class="visually-hidden">Top level navigation menu</h2>
 				<ul class="nav">
 					<li class="nav-item"><a href="/">Home</a></li>
-					<li class="nav-item"><a href="/blog/" aria-current="page">Blog</a></li>
+					<li class="nav-item"><a href="/blog/">Blog</a></li>
 					<li class="nav-item"><a href="/about/">About Me</a></li>
 					<li class="nav-item"><a href="/now/">Now</a></li>
 					<li class="nav-item"><a href="/guestbook/">Guestbook</a></li>
@@ -479,106 +646,56 @@ h2 + .header-anchor {
 
 		<main id="skip">
 			
-<h1>Blog</h1>
+<h1>i managed to add an image to my blog posts</h1>
 
 
+<ul class="post-metadata">
+	<li><time datetime="2024-05-06">06 May 2024</time></li>
+	<li><a href="/tags/webblogpomo2024/" class="post-tag">webblogpomo2024</a></li>
+</ul>
 
-<ol reversed class="postlist">
+<p>I am embarassed by how long this took me</p>
+<img src="/img/apollo1.jpeg" width="500">
+<hr>
+<p>All of May 2024, I will be participating in weblog posting month created by <a href="https://weblog.anniegreens.lol/weblog-posting-month-2024">Apple Annie</a></p>
+<p>For a list of other participants, <a href="https://weblog.anniegreens.lol/weblog-posting-month-2024/participators">go here</a></p>
+<p>For a list of my topic ideas and some rules I wrote for myself, <a href="/weblogpomo2024/">go here</a></p>
+<p>Post 7/31</p>
 
-	<li class="postlist-item">
-		<a href="/blog/pomoday8/" class="postlist-link">what are my daydreams - new moon wishes</a>
-		<time class="postlist-date" datetime="2024-05-08">May 2024</time>
-	</li>
-
-	<li class="postlist-item">
-		<a href="/blog/pomoday7/" class="postlist-link">i managed to add an image to my blog posts</a>
-		<time class="postlist-date" datetime="2024-05-07">May 2024</time>
-	</li>
-
-	<li class="postlist-item">
-		<a href="/blog/pomoday6/" class="postlist-link">Marry Me Chicken and Job Applications</a>
-		<time class="postlist-date" datetime="2024-05-06">May 2024</time>
-	</li>
-
-	<li class="postlist-item">
-		<a href="/blog/pomoday5/" class="postlist-link">My website is one month old!</a>
-		<time class="postlist-date" datetime="2024-05-05">May 2024</time>
-	</li>
-
-	<li class="postlist-item">
-		<a href="/blog/pomoday4/" class="postlist-link">Four Months Into My No-Buy Year</a>
-		<time class="postlist-date" datetime="2024-05-04">May 2024</time>
-	</li>
-
-	<li class="postlist-item">
-		<a href="/blog/pomoday3/" class="postlist-link">A Dumbass Tries to Learn to Budget</a>
-		<time class="postlist-date" datetime="2024-05-03">May 2024</time>
-	</li>
-
-	<li class="postlist-item">
-		<a href="/blog/pomoday2/" class="postlist-link">A Peek Into My Morning Pages</a>
-		<time class="postlist-date" datetime="2024-05-02">May 2024</time>
-	</li>
-
-	<li class="postlist-item">
-		<a href="/blog/bigsur2024/" class="postlist-link">A Love Letter to the Big Sur Marathon</a>
-		<time class="postlist-date" datetime="2024-05-01">May 2024</time>
-	</li>
-
-	<li class="postlist-item">
-		<a href="/blog/weblogpomo2024/" class="postlist-link">It&#39;s Weblog Posting Month! + 31 Blog Post Ideas</a>
-		<time class="postlist-date" datetime="2024-04-30">April 2024</time>
-	</li>
-
-	<li class="postlist-item">
-		<a href="/blog/been-a-weird-week/" class="postlist-link">It&#39;s Been a Weird Week</a>
-		<time class="postlist-date" datetime="2024-04-23">April 2024</time>
-	</li>
-
-	<li class="postlist-item">
-		<a href="/digital-garden/minimalism/" class="postlist-link">My thoughts on minimalism</a>
-		<time class="postlist-date" datetime="2024-04-14">April 2024</time>
-	</li>
-
-	<li class="postlist-item">
-		<a href="/blog/life-without-algoritms/" class="postlist-link">An Observation About Browsing Without The Algorithm</a>
-		<time class="postlist-date" datetime="2024-04-14">April 2024</time>
-	</li>
-
-	<li class="postlist-item">
-		<a href="/blog/recent-faves/" class="postlist-link">Recent Faves</a>
-		<time class="postlist-date" datetime="2024-04-13">April 2024</time>
-	</li>
-
-	<li class="postlist-item">
-		<a href="/blog/website-to-dos/" class="postlist-link">Website To Dos</a>
-		<time class="postlist-date" datetime="2024-04-12">April 2024</time>
-	</li>
-
-	<li class="postlist-item">
-		<a href="/blog/I-need-to-declutter/" class="postlist-link">I need to declutter.</a>
-		<time class="postlist-date" datetime="2024-04-12">April 2024</time>
-	</li>
-
-	<li class="postlist-item">
-		<a href="/blog/april-so-far24/" class="postlist-link">April So Far</a>
-		<time class="postlist-date" datetime="2024-04-07">April 2024</time>
-	</li>
-
-</ol>
+<ul class="links-nextprev"><li>Previous: <a href="/blog/pomoday6/">Marry Me Chicken and Job Applications</a></li><li>Next: <a href="/blog/pomoday7/">i managed to add an image to my blog posts</a></li>
+</ul>
 
 
-	<div class="footer">
-		<p>Love, Maya 😘 2024</p>
-<script src="https://tinylytics.app/embed/B3B9KPzVuyDBL9JvzPCY.js" defer></script>
-		<br>
-<p><a href='https://mayasdaydreams.com/feed/feed.xml'>RSS </a></p>
-	</div>
+<div id="c_widget"></div>
+<script src="/content/comment-widget.js"></script>
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    
+   // var disqus_config = function () {
+   // this.page.url = mayasdaydreams.com/guestbook;  // Replace PAGE_URL with your page's canonical URL variable
+   // this.page.identifier = guestbook; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+   // };
+
+
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://mayasdaydreams.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+<script id="dsq-count-scr" src="//mayasdaydreams.disqus.com/count.js" async></script>
 
 		</main>
 
 		<footer></footer>
 
-		<!-- This page `/blog/` was built on 2024-05-09T05:33:09.203Z -->
+		<!-- This page `/blog/pomoday7 copy/` was built on 2024-05-09T05:30:28.635Z -->
 	</body>
 </html>

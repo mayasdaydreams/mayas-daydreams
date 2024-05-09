@@ -1,7 +1,7 @@
 ---
 title: i managed to add an image to my blog posts
 description: yummy chicken
-date: 2024-05-06
+date: 2024-05-07
 tags:
   - webblogpomo2024
 ---
