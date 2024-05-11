@@ -33,21 +33,11 @@ numberOfLatestPostsToShow: 3
 		</center>
 
 		<p>Contact: <a href="mailto:mayasdaydreams@proton.me" rel="me">mayasdaydreams@proton.me</a>
-		<p>vistors </p>
 		<!-- FC2 Counter  Starts here -->
 <script language="javascript" type="text/javascript" src="//counter1.fc2.com/counter.php?id=39609920&main=1"></script><noscript><img src="//counter1.fc2.com/counter_img.php?id=39609920&main=1" /></noscript>
 <!-- FC2 Counter  Ends here -->
-	</div>
 
-	<div class="Header">
-		<p>Howdy!</p>
-	</div>
-
-	<div class="body-area">
-		
-
-
-		{% set postsCount = collections.posts | length %}
+{% set postsCount = collections.posts | length %}
 		{% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
 		<h4>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h4>
 		
@@ -68,6 +58,20 @@ numberOfLatestPostsToShow: 3
 			{%- endfor %}
 		</ul>
 		#}
+
+	</div>
+
+	<div class="Header">
+		<p>Howdy!</p>
+	</div>
+
+	<div class="body-area">
+		
+		<p>Hi, my name is Maya! 
+		I'm a transportation planner, but I don't really write about that much on this page... Something about building 
+		the homepage of my personal site makes me feel shy. I'm a lot less shy in my blog posts. I feel like even that 
+		makes it sound weird. Whatever, welcome to my corner of the internet. This is 90% of my web presence and 
+		a love letter to the old web. </p>
 		
 	<div class="body-area">
 		
