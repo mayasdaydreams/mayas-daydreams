@@ -1,0 +1,94 @@
+---
+layout: layouts/home.njk
+eleventyNavigation:
+  key: Home
+  order: 1
+
+numberOfLatestPostsToShow: 3
+---
+
+<!-- Remember to also copy the code in the CSS area! -->
+<div class="snowflakes">
+	<!-- add your 'snowflake' images below - you can add more or less if needed -->
+	<div class="snowflake"><img src="/img/heart.png" style="width:20px;" /></div>
+	<div class="snowflake"><img src="/img/heart.png" style="width:20px;" /></div>
+	  <div class="snowflake"><img src="/img/heart.png" style="width:20px;" /></div>
+	  <div class="snowflake"><img src="/img/heart.png" style="width:20px;" /></div>
+	 <div class="snowflake"><img src="/img/heart.png" style="width:20px;" /></div>
+	  <div class="snowflake"><img src="/img/heart.png" style="width:20px;" /></div>
+	  <div class="snowflake"><img src="/img/heart.png" style="width:20px;" /></div>
+	  <div class="snowflake"><img src="/img/heart.png" style="width:20px;" /></div>
+	<div class="snowflake"><img src="/img/heart.png" style="width:20px;" /></div>
+	  <div class="snowflake"><img src="/img/heart.png" style="width:20px;" /></div>
+	  <div class="snowflake"><img src="/img/heart.png" style="width:20px;" /></div>
+  </div>
+  </div>
+
+
+<div class="container">
+	
+	<div class="sidebar">
+		<center>
+		<img width="200" height="200" src="img/avatar3.png">
+		</center>
+
+		<p>Contact: <a href="mailto:mayasdaydreams@proton.me" rel="me">mayasdaydreams@proton.me</a>
+		<p>vistors </p>
+		<!-- FC2 Counter  Starts here -->
+<script language="javascript" type="text/javascript" src="//counter1.fc2.com/counter.php?id=39609920&main=1"></script><noscript><img src="//counter1.fc2.com/counter_img.php?id=39609920&main=1" /></noscript>
+<!-- FC2 Counter  Ends here -->
+	</div>
+
+	<div class="Header">
+		<p>Howdy!</p>
+	</div>
+
+	<div class="body-area">
+		
+
+
+		{% set postsCount = collections.posts | length %}
+		{% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
+		<h4>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h4>
+		
+		{% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
+		{% set postslistCounter = postsCount %}
+		{% include "postslist.njk" %}
+		
+		{% set morePosts = postsCount - numberOfLatestPostsToShow %}
+		{% if morePosts > 0 %}
+		<p>{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="/blog/">the archive</a>.</p>
+		{% endif %}
+		
+		{# List every content page in the project #}
+		{#
+		<ul>
+			{%- for entry in collections.all %}
+			<li><a href="{{ entry.url }}"><code>{{ entry.url }}</code></a></li>
+			{%- endfor %}
+		</ul>
+		#}
+		
+	<div class="body-area">
+		
+		<h3> Changelog </h3>
+		<p> <b> 5/11/2024 </b> Added changelog, started complete CSS overhaul. Also added a light/dark mode toggle, but I don't know how to make the rest of the pages go into darkmode too... </p>
+
+	</div>
+
+	</div>
+
+
+
+	<div class="footer">
+		<p>Love, Maya 😘 2024</p>
+<script src="https://tinylytics.app/embed/B3B9KPzVuyDBL9JvzPCY.js" defer></script>
+		<br>
+		<a href='https://webring.dinhe.net/prev/https://mayasdaydreams.com'>Previous</a> the retronaut webring 
+		<a href='https://webring.dinhe.net/next/https://mayasdaydreams.com'>Next</a>
+<p><a href='https://mayasdaydreams.com/feed/feed.xml'>RSS </a></p>
+	</div>
+
+</div>
+
+
