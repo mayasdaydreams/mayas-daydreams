@@ -263,6 +263,135 @@ header:after {
 	position: absolute;
 	white-space: nowrap;
 	width: 1px;
+}
+
+
+.links-nextprev {
+	list-style: none;
+	border-top: 1px dashed var(--color-gray-20);
+	padding: 1em 0;
+}
+
+table {
+	margin: 1em 0;
+}
+table td,
+table th {
+	padding-right: 1em;
+}
+
+pre,
+code {
+	font-family: var(--font-family-monospace);
+}
+pre:not([class*="language-"]) {
+	margin: .5em 0;
+	line-height: 1.375; /* 22px /16 */
+	-moz-tab-size: var(--syntax-tab-size);
+	-o-tab-size: var(--syntax-tab-size);
+	tab-size: var(--syntax-tab-size);
+	-webkit-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+	direction: ltr;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+}
+code {
+	word-break: break-all;
+}
+
+/* Posts list */
+.postlist {
+	list-style: square;
+	padding: 0;
+	padding-left: 1.5rem;
+}
+.postlist-item {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: baseline;
+	counter-increment: start-from -1;
+	margin-bottom: 1em;
+}
+.postlist-item:before {
+	display: inline-block;
+	pointer-events: none;
+	content: "" counter(start-from, decimal-leading-zero) ". ";
+	line-height: 100%;
+	text-align: right;
+	margin-left: -1.5rem;
+}
+.postlist-date,
+.postlist-item:before {
+	font-size: 0.8125em; /* 13px /16 */
+	color: var(--color-gray-90);
+}
+.postlist-date {
+	word-spacing: -0.5px;
+}
+.postlist-link {
+	flex-basis: calc(100% - 1.5rem);
+	padding-left: .25em;
+	padding-right: .5em;
+	text-underline-position: from-font;
+	text-underline-offset: 0;
+	text-decoration-thickness: 1px;
+}
+.postlist-item-active .postlist-link {
+	font-weight: bold;
+}
+
+/* Tags */
+.post-tag {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	text-transform: capitalize;
+	font-style: italic;
+}
+.postlist-item > .post-tag {
+	align-self: center;
+}
+
+/* Tags list */
+.post-metadata {
+	display: inline-flex;
+	flex-wrap: wrap;
+	gap: .5em;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.post-metadata time {
+	margin-right: 1em;
+}
+
+
+/* Direct Links / Markdown Headers */
+.header-anchor {
+	text-decoration: none;
+	font-style: normal;
+	font-size: 1em;
+	margin-left: .1em;
+}
+a[href].header-anchor,
+a[href].header-anchor:visited {
+	color: transparent;
+}
+a[href].header-anchor:focus,
+a[href].header-anchor:hover {
+	text-decoration: underline;
+}
+a[href].header-anchor:focus,
+:hover > a[href].header-anchor {
+	color: #aaa;
+}
+
+h2 + .header-anchor {
+	font-size: 1.5em;
 }</style>
 	
 	
@@ -324,13 +453,24 @@ header:after {
 <div class="container">
 	
 	<div class="sidebar">
-		<center>
-		<img width="200" height="200" src="img/avatar3.png">
-		</center>
+		<div class="sidebar">
+			<img width="200" height="200" src="img/avatar3.png">
+		</div>
 
-		<p>Contact: <a href="mailto:mayasdaydreams@proton.me" rel="me">mayasdaydreams@proton.me</a>
+		<div class="Header">
+			<h4>Currently:</h4>
+			<b>📆 Date</b>: May 12, 2024<br>
+			<b>🕰️ Time</b>: 8:49 AM<br>
+			<b>🟡 Mood</b>: 🥲<br>
+			<b>📍 Location</b>: Bay Area, CA <br>
+			<img src="img/palestine.png">
+		</div>
+
+
+
+		<p><a href="mailto:mayasdaydreams@proton.me" rel="me">Email me!</a><br>
 		<!-- FC2 Counter  Starts here -->
-<script language="javascript" type="text/javascript" src="//counter1.fc2.com/counter.php?id=39609920&main=1"></script><noscript><img src="//counter1.fc2.com/counter_img.php?id=39609920&main=1" /></noscript>
+<script language="javascript" type="text/javascript" src="//counter1.fc2.com/counter.php?id=39609920&main=1"></script><noscript><img src="//counter1.fc2.com/counter_img.php?id=39609920&main=1"></noscript>
 <!-- FC2 Counter  Ends here -->
 
 
@@ -371,7 +511,7 @@ header:after {
 	</div>
 
 	<div class="Header">
-		<p>Howdy!</p>
+		<img src="img/Welcome-5-12-2024.png" width="450px">
 	</div>
 
 	<div class="body-area">
@@ -385,7 +525,8 @@ header:after {
 	<div class="body-area">
 		
 		<h3> Changelog </h3>
-		<p> <b> 5/11/2024 </b> Added changelog, started complete CSS overhaul. Also added a light/dark mode toggle, but I don't know how to make the rest of the pages go into darkmode too (looks hella ugly though). I also added my shrines page (very barebones) to the navigation menu</p>
+		<p> <b> 5/12/2024 </b> Added status section to sidebar, I am enjoying the simpler layout for now while I figure out what content I want to actually have here! </p>
+		<p> <b> 5/11/2024 </b> Added changelog, started complete CSS overhaul. Also added a light/dark mode toggle, but I don't know how to make the rest of the pages go into darkmode too (looks hella ugly though). I also added my <a href="/shrines">shrines</a> page (very barebones) to the navigation menu</p>
 
 	</div>
 
@@ -400,6 +541,7 @@ header:after {
 		<a href='https://webring.dinhe.net/prev/https://mayasdaydreams.com'>Previous</a> the retronaut webring 
 		<a href='https://webring.dinhe.net/next/https://mayasdaydreams.com'>Next</a>
 <p><a href='https://mayasdaydreams.com/feed/feed.xml'>RSS </a></p>
+
 	</div>
 
 </div>
@@ -411,6 +553,6 @@ header:after {
 
 		<footer></footer>
 
-		<!-- This page `/` was built on 2024-05-11T17:55:01.837Z -->
+		<!-- This page `/` was built on 2024-05-12T16:19:24.276Z -->
 	</body>
 </html>
