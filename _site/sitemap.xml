@@ -77,11 +77,6 @@
 	</url>
 	
 	<url>
-		<loc>https://mayasdaydreams.com/tags/crochet/</loc>
-		<lastmod>2024-04-13</lastmod>
-	</url>
-	
-	<url>
 		<loc>https://mayasdaydreams.com/tags/notion/</loc>
 		<lastmod>2024-04-13</lastmod>
 	</url>
@@ -92,12 +87,12 @@
 	</url>
 	
 	<url>
-		<loc>https://mayasdaydreams.com/tags/weblogpomo2024/</loc>
+		<loc>https://mayasdaydreams.com/tags/crochet/</loc>
 		<lastmod>2024-04-13</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://mayasdaydreams.com/tags/money/</loc>
+		<loc>https://mayasdaydreams.com/tags/weblogpomo2024/</loc>
 		<lastmod>2024-04-13</lastmod>
 	</url>
 	
@@ -107,7 +102,7 @@
 	</url>
 	
 	<url>
-		<loc>https://mayasdaydreams.com/tags/webmastery/</loc>
+		<loc>https://mayasdaydreams.com/tags/money/</loc>
 		<lastmod>2024-04-13</lastmod>
 	</url>
 	
@@ -117,12 +112,17 @@
 	</url>
 	
 	<url>
-		<loc>https://mayasdaydreams.com/tags/challeneges/</loc>
+		<loc>https://mayasdaydreams.com/tags/webmastery/</loc>
 		<lastmod>2024-04-13</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://mayasdaydreams.com/tags/lists/</loc>
+		<lastmod>2024-04-13</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://mayasdaydreams.com/tags/challeneges/</loc>
 		<lastmod>2024-04-13</lastmod>
 	</url>
 	
@@ -284,5 +284,10 @@
 	<url>
 		<loc>https://mayasdaydreams.com/blog/pomoday17/</loc>
 		<lastmod>2024-05-18</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://mayasdaydreams.com/blog/pomoday18/</loc>
+		<lastmod>2024-05-23</lastmod>
 	</url>
 </urlset>
