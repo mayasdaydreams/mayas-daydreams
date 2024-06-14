@@ -17,4 +17,4 @@ I worked a little. Washed my pajamas (again), worked a little bit, watched Bridg
 - For day 2 of your period: i prescribe trying to do something at your day job, calling in sick, making your cat be a hot water bottle, getting out your actual hot water bottle, sharing your hot water bottle. light exercise (gym teacher said so), snacks (i said so), and watching your favorite show. And also, deal with the debilitating pain, weird emotions, and constant gross feeling. 
 - For saying goodbye to your spouse for two and half weeks, I prescribe spending as much time with them as you can before they leave.
 
-Yeah, I called in sick today, and I really do feel like it was necessaey.
+Yeah, I called in sick today, and I really do feel like it was necessary.
