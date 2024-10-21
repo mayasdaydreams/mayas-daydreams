@@ -4,12 +4,21 @@
 	<subtitle>this is where i hang out on the internet</subtitle>
 	<link href="https://mayasdaydreams.com/feed/feed.xml" rel="self"/>
 	<link href="https://mayasdaydreams.com/"/>
-	<updated>2024-06-13T00:00:00Z</updated>
+	<updated>2024-06-16T00:00:00Z</updated>
 	<id>https://mayasdaydreams.com/</id>
 	<author>
 		<name>Maya</name>
 		<email>youremailaddress@example.com</email>
 	</author>
+	
+	<entry>
+		<title>My first YouTube video :&#39;) a tour of my tarot deck collection</title>
+		<link href="https://mayasdaydreams.com/blog/youtube-debut/"/>
+		<updated>2024-06-16T00:00:00Z</updated>
+		<id>https://mayasdaydreams.com/blog/youtube-debut/</id>
+		<content type="html">&lt;p&gt;Hehe, just wanted to share here that I made my first youtube video.&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/UXCcdsj0pYM?si=pFpZxLxhrZOQw5O4&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content>
+	</entry>
 	
 	<entry>
 		<title>I called in sick to work today because of my period</title>
@@ -25,17 +34,6 @@
 &lt;li&gt;For saying goodbye to your spouse for two and half weeks, I prescribe spending as much time with them as you can before they leave.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Yeah, I called in sick today, and I really do feel like it was necessary.&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>I love failing at challenges... getting ready for my next one</title>
-		<link href="https://mayasdaydreams.com/blog/challenges/"/>
-		<updated>2024-06-12T00:00:00Z</updated>
-		<id>https://mayasdaydreams.com/blog/challenges/</id>
-		<content type="html">&lt;p&gt;It has been a minute since I last posted! In that time Weblog Posting Month left, June started, I went to Michigan for a funeral, did some online shopping, started a new decluttering challenge (I&#39;m almost done!), and am getting ready to embark on my next one. I will now take a few minutes to reflect on all of these and talk a little bit about what&#39;s next. I also want to at some point make some updates to my website&#39;s design (if you can call it that, lol) this month. I won&#39;t really be mentioning that in the rest of this post, but that&#39;s my update!&lt;/p&gt;
-&lt;h2 id=&quot;weblog-posting-month-did-i-fail&quot; tabindex=&quot;-1&quot;&gt;Weblog Posting Month... Did I Fail? &lt;a class=&quot;header-anchor&quot; href=&quot;https://mayasdaydreams.com/blog/challenges/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;I was tempted to call WeBlogPoMo a failure, but I won&#39;t do that to myself. I did not post every day. Which bummed me out. Basically as soon as I started to fizzle out and lose my motivation as a whole.&lt;/p&gt;
 </content>
 	</entry>
 	
@@ -552,14 +550,6 @@ Google Sheets and Excel were great for tracking and making pretty charts... but 
 &lt;p&gt;Even if I have been off of social media, I still wanted to be able to enjoy the internet, and casually browse. That bumbling around trying to find a new home on the internet landed me here, for which I am very grateful. I almost forgot what it was like to organically find cool websites, or interesting people&#39;s work to admire. I feel like in a way I found a way to enjoy the internet again without algorithms (or at least minimally!).&lt;/p&gt;
 &lt;p&gt;One interesting observation I have made is that I spend more time thinking about whether or not I can trust the people behind the pages I find. Everyone I have come across seems to align in value with me, maybe that&#39;s just an aspect of the indie web, but I do have that moment of pause where I feel like I need to make sure. My hunch is that it&#39;s a reflex against being spoonfed content that is tailored to me, and suddenly being open to anyone&#39;s opinions. It&#39;s a nice feeling, just an observation...&lt;/p&gt;
 </content>
-	</entry>
-	
-	<entry>
-		<title>Recent Faves</title>
-		<link href="https://mayasdaydreams.com/blog/recent-faves/"/>
-		<updated>2024-04-13T00:00:00Z</updated>
-		<id>https://mayasdaydreams.com/blog/recent-faves/</id>
-		<content type="html">&lt;iframe width=&quot;500&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/4TffiAO-E_4?si=mTffkunRwOzb9gS0&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content>
 	</entry>
 	
 	<entry>
