@@ -1,14 +1,13 @@
-const { DateTime } = require("luxon");
-const markdownItAnchor = require("markdown-it-anchor");
+const { DateTime } = import("luxon");
+const markdownItAnchor = import("markdown-it-anchor");
 
-const pluginRss = require("@11ty/eleventy-plugin-rss");
-const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
-const pluginBundle = require("@11ty/eleventy-plugin-bundle");
-const pluginNavigation = require("@11ty/eleventy-navigation");
-const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
+const pluginRss = import("@11ty/eleventy-plugin-rss");
+const pluginSyntaxHighlight = import("@11ty/eleventy-plugin-syntaxhighlight");
+const pluginBundle = import("@11ty/eleventy-plugin-bundle");
+const pluginNavigation = import("@11ty/eleventy-navigation");
+const { EleventyHtmlBasePlugin } = import("@11ty/eleventy");
 
-const pluginDrafts = require("./eleventy.config.drafts.js");
-const pluginImages = require("./eleventy.config.images.js");
+const pluginDrafts = import("./eleventy.config.drafts.js");
 
 
 
