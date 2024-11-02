@@ -8,6 +8,21 @@ const numberOfLatestPostsToShow = 3;
 ---
 
 <div class="container">
+	<div class="sidebar">
+		<div class="sidebar">
+			<img width="200" height="200" src="img/avatar3.png">
+	</div>
+
+	<div class="Header">
+		<h4>Currently:</h4>
+			<b>📆 Date</b>: May 12, 2024<br>
+			<b>🕰️ Time</b>: 8:49 AM<br>
+			<b>🟡 Mood</b>: 🥲<br>
+			<b>📍 Location</b>: Bay Area, CA <br>
+			<img src="img/palestine.png">
+	</div>
+
+
 	<div class="body-area"
 		{% set postsCount = collections.posts | length %}
 		{% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
