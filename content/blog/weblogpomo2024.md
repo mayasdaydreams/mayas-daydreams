@@ -2,8 +2,7 @@
 title: It's Weblog Posting Month! + 31 Blog Post Ideas
 description: Gearing up for a daily blogging challenge
 date: 2024-04-30
-tags:
-  - challeneges
+tags: challeneges
 ---
 
 I recently set up my <a href="https://mastodon.social/@mayasdaydreams">Mastodon</a> profile. I am dubious about it, but I did come across this hashtag: <a href="https://mastodon.social/tags/weblogpomo2024">#weblogpomo2024</a>. Despite my better judgement, I want to go for it. 

@@ -2,9 +2,7 @@
 title: My first YouTube video :') a tour of my tarot deck collection
 description: 
 date: 2024-06-16
-tags:
-  - life update
-  - video
+tags: life update
 ---
 
 Hehe, just wanted to share here that I made my first youtube video. 
