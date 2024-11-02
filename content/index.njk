@@ -6,27 +6,40 @@ eleventyNavigation:
 
 numberOfLatestPostsToShow: 3
 ---
-n =  new Date();
-y = n.getFullYear();
-m = n.getMonth() + 1;
-d = n.getDate();
+
+<!DOCTYPE html>
+<html>
+<body>
+
+
 
 <div class="container">
 	
 	<div class="sidebar">
 		<div class="sidebar">
-			hello
+			test
 		</div>
 
 		<div class="Header">
 			<h4>Currently:</h4>
-			<b>📆 Date</b>: Mdocument.getElementById("date").innerHTML = m + "/" + d + "/" + y; <br>
-			<b>🕰️ Time</b>: 8:49 AM<br>
+			<b>📆 Date</b>: <span id="date"></span><br>
+
+			<script>
+			const d = new Date();
+			document.getElementById("date").innerHTML = d.toLocaleDateString();
+			</script>
+
+			<b>🕰️ Time</b>: <span id="time"></span><br>
+
+			<script>
+			const t = new Date();
+			document.getElementById("time").innerHTML = t.toLocaleTimeString();
+			</script>
+
+
 			<b>🟡 Mood</b>: 🥲<br>
 			<b>📍 Location</b>: Bay Area, CA <br>
 		</div>
-
-
 
 		<p><a href="mailto:mayasdaydreams@proton.me" rel="me">Email me!</a><br>
 
@@ -69,7 +82,7 @@ d = n.getDate();
 	<div class="body-area">
 		
 		<h3> Changelog </h3>
-		<p> <b> 11/2/2o24 </b> Upgraded to Eleventy 3.0 and broke my website, slowly restoring my pages back to where they were... so links might be broken :'( </p>
+		<p> <b> 11/2/2024 </b> Upgraded to Eleventy 3.0 and broke my website, slowly restoring my pages back to where they were... so links might be broken :'(. I also updated the date and time on the side bar to update automatically instead of me doing it manually!</p>
 		<p> <b> 5/12/2024 </b> Added status section to sidebar, I am enjoying the simpler layout for now while I figure out what content I want to actually have here! </p>
 		<p> <b> 5/11/2024 </b> Added changelog, started complete CSS overhaul. Also added a light/dark mode toggle, but I don't know how to make the rest of the pages go into darkmode too (looks hella ugly though). I also added my <a href="/shrines">shrines</a> page (very barebones) to the navigation menu</p>
 
@@ -91,4 +104,5 @@ d = n.getDate();
 
 </div>
 
-
+</body>
+</html>
