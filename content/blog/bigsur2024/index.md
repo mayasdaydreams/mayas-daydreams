@@ -7,7 +7,7 @@ tags:
   - webblogpomo2024
 ---
 
-![excuse the broken image, i seem to not know how to post images in my blog posts yet, will add soon! In the meantime, picture a big little lies cut scene](/Users/mayaprice/Documents/Projects/mayas-daydreams/content/blog/bigsur2024/pic1.jpeg)
+![excuse the broken image, i seem to not know how to post images in my blog posts yet, will add soon! In the meantime, picture a big little lies cut scene]
 
 Running is one of my great loves. I'm not very good at it, and it's taken me a long time to be okay with that. I think that one of the big journeys that I have been on since turning 30 is learning to enjoy things in spite of being bad at most of my hobbies. I am not sure exactly where this idea came from, but it always felt like things weren't worth doing if I couldn't do it perfectly. Yes, I am a recovering perfectionist. Last weekend I participated in the Big Sur Marathon... not the full marathon... the 12k.
 
