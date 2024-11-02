@@ -1,0 +1,89 @@
+---
+layout: layouts/home.njk
+eleventyNavigation:
+  key: Home
+  order: 1
+
+numberOfLatestPostsToShow: 3
+---
+
+<div class="container">
+	
+	<div class="sidebar">
+		<div class="sidebar">
+			hello
+		</div>
+
+		<div class="Header">
+			<h4>Currently:</h4>
+			<b>📆 Date</b>: May 12, 2024<br>
+			<b>🕰️ Time</b>: 8:49 AM<br>
+			<b>🟡 Mood</b>: 🥲<br>
+			<b>📍 Location</b>: Bay Area, CA <br>
+		</div>
+
+
+
+		<p><a href="mailto:mayasdaydreams@proton.me" rel="me">Email me!</a><br>
+
+{% set postsCount = collections.posts | length %}
+		{% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
+		<h4>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h4>
+		
+		{% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
+		{% set postslistCounter = postsCount %}
+		{% include "postslist.njk" %}
+		
+		{% set morePosts = postsCount - numberOfLatestPostsToShow %}
+		{% if morePosts > 0 %}
+		<p>{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="/blog/">the archive</a>.</p>
+		{% endif %}
+		
+		{# List every content page in the project #}
+		{#
+		<ul>
+			{%- for entry in collections.all %}
+			<li><a href="{{ entry.url }}"><code>{{ entry.url }}</code></a></li>
+			{%- endfor %}
+		</ul>
+		#}
+
+	</div>
+
+	<div class="Header">
+	hello
+	</div>
+
+	<div class="body-area">
+		
+		<p>Hi, my name is Maya! 
+		I'm a transportation planner, but I don't really write about that much on this page... Something about building 
+		the homepage of my personal site makes me feel shy. I'm a lot less shy in my blog posts. I feel like even that 
+		makes it sound weird. Whatever, welcome to my corner of the internet. This is 90% of my web presence and 
+		a love letter to the old web. </p>
+		
+	<div class="body-area">
+		
+		<h3> Changelog </h3>
+		<p> <b> 5/12/2024 </b> Added status section to sidebar, I am enjoying the simpler layout for now while I figure out what content I want to actually have here! </p>
+		<p> <b> 5/11/2024 </b> Added changelog, started complete CSS overhaul. Also added a light/dark mode toggle, but I don't know how to make the rest of the pages go into darkmode too (looks hella ugly though). I also added my <a href="/shrines">shrines</a> page (very barebones) to the navigation menu</p>
+
+	</div>
+
+	</div>
+
+
+
+	<div class="footer">
+		<p>Love, Maya 😘 2024</p>
+<script src="https://tinylytics.app/embed/B3B9KPzVuyDBL9JvzPCY.js" defer></script>
+		<br>
+		<a href='https://webring.dinhe.net/prev/https://mayasdaydreams.com'>Previous</a> the retronaut webring 
+		<a href='https://webring.dinhe.net/next/https://mayasdaydreams.com'>Next</a>
+<p><a href='https://mayasdaydreams.com/feed/feed.xml'>RSS </a></p>
+
+	</div>
+
+</div>
+
+
