@@ -2,7 +2,9 @@
 title: I need to declutter.
 description: 
 date: 2024-04-12
-tags: ["minimalism", "decluttering"]
+tags:
+  - minimalism
+  - decluttering
 ---
 Last week we found out that we are moving this fall! I am super excited and nervous about it. Wondering if I can keep my job, what kind of place are we going to live in, am I going to like it, will the cat be happy? I think it will go great, plus we'll be a lot closer to the Sierras! But one thing that's been nagging me for a long time is the fact that I (and we) just have way too much crap.
 

@@ -2,7 +2,9 @@
 title: I called in sick to work today because of my period
 description: and felt horrible about it
 date: 2024-06-13
-tags: ["life update", "challenges"]
+tags:
+  - life update
+  - challenges
 ---
 
 I callled in sick to my job today because of my period. I did attend a few meetings and handled a fraction of the avalanche of emails that are stressing me out, but for some reason I feel like it was dishonest to call in sick. I did not realize that my hormones would become such a reoccurring topic on my blog, but here we are with another period post. 

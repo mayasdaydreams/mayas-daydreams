@@ -2,7 +2,8 @@
 title: It's Been a Weird Week
 description: 
 date: 2024-04-23
-tags: ["life"]
+tags:
+  - life
 ---
 
 Happy belated Earth Day! It has been a weird week for me, and I feel like since that last time I sat down to do an update a lot of things in my life have already changed again. There are just some periods in life where things move fast I guess.
